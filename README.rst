@@ -1,3 +1,6 @@
+This repository is archived. 
+This software has been replaced by :ref:`Hoard<https://github.com/jamespfennell/hoard>`.
+
 =========================
 Realtime Aggregator 0.2.0
 =========================
